@@ -21,6 +21,5 @@ Citation:
 If you have any question or problem with the code, don't hesitate to contact me (h.alizadeh@queensu.ca)
 
 ## Acknowledgment
-I would like to express my gratitude to [Junjie Zhang] (https://github.com/ZJier) for 
-sharing the source code of the MVAHN model. Some lines of this script are extracted 
-from their code.
+I would like to express my gratitude to [Junjie Zhang](https://github.com/ZJier) for 
+sharing the source code of the MVAHN model. Some lines of their codes are used in mine.
