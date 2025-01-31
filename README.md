@@ -8,12 +8,14 @@ For more details, please refer to our paper:
 
 Citation: 
 
-@ARTICLE{10847699,
-  author={Moghaddam, Sayyed Hamed Alizadeh and Gazor, Saeed and Homayouni, Saeid and Karami, Fahime},
-  journal={IEEE Sensors Journal}, 
-  title={Integrating Local and Global Features in a Convolutional Vision Transformer for Wetland Mapping}, 
-  year={2025},
-  doi={10.1109/JSEN.2025.3529762}}
-
+> ```bibtex
+> @ARTICLE{10847699,
+>   author={Moghaddam, Sayyed Hamed Alizadeh and Gazor, Saeed and Homayouni, Saeid and Karami, Fahime},
+>   journal={IEEE Sensors Journal}, 
+>   title={Integrating Local and Global Features in a Convolutional Vision Transformer for Wetland Mapping}, 
+>   year={2025},
+>   doi={10.1109/JSEN.2025.3529762}
+> }
+> ``
 
 If you have any question or problem with the codes, don't hesitate to contact me (h.alizadeh@queensu.ca)
