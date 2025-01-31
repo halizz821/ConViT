@@ -16,6 +16,6 @@ Citation:
 >   year={2025},
 >   doi={10.1109/JSEN.2025.3529762}
 > }
-> ``
+> ```
 
-If you have any question or problem with the codes, don't hesitate to contact me (h.alizadeh@queensu.ca)
+If you have any question or problem with the code, don't hesitate to contact me (h.alizadeh@queensu.ca)
